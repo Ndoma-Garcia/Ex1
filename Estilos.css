@@ -305,3 +305,11 @@ align-items: center;
     font-size: 1.23em;
     color: #122ab2;
 }
+.footer a{
+    color: #122ab2;
+
+}
+.footer a:hover{
+    color: darkblue;
+    
+}
